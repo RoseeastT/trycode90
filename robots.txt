@@ -1,0 +1,8 @@
+User-agent: *
+User-agent: Googlebot
+User-agent: Googlebot-image
+User-agent: Googlebot-mobile
+User-agent: Slurp
+User-agent: bingbot
+Allow: /
+Sitemap : http://boswin138.getprooph.org/sitemap.xml
