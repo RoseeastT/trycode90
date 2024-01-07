@@ -5,4 +5,4 @@ User-agent: Googlebot-mobile
 User-agent: Slurp
 User-agent: bingbot
 Allow: /
-Sitemap : http://boswin138.getprooph.org/sitemap.xml
+Sitemap : http://dewa138.gov.sjackman.ca/sitemap.xml
